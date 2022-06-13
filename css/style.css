@@ -647,7 +647,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #18d26e;
   border-radius: 50%;
   text-align: center;
-  border: 4px solid #fff;
+  border: 4px solid rgb(5, 1, 1);
   left: calc( 50% - 32px);
   bottom: -30px;
   transition: 0.3s;
