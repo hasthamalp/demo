@@ -660,9 +660,9 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: 0.3s;
 }
 
-#about .about-col:hover .icon {
+/* #about .about-col:hover .icon {
   background-color: #fff;
-}
+} */
 
 #about .about-col:hover i {
   color: #18d26e;
