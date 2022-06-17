@@ -85,15 +85,15 @@ body{
     background: #eee;
 }
 .container .video-list .vid.active{
-    background: #2980b9;
+    background: #243A73;
 
 }
 .container .video-list .vid.active .title{
-    color: #fff;
+    color: #371B58;
 }
 
 .container .video-list .vid .title{
-    color: #333;
+    color: #D61C4E;
     font-size:17px ;
 }
 @media (max-width:991px){
