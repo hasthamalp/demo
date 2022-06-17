@@ -54,12 +54,12 @@ body{
 
 }
 .container .video-list::-webkit-scrollbar-track{
-    background: #ccc;
+    background: #43A7;
     border-radius: 50px;
     
 }
 .container .video-list::-webkit-scrollbar-thumb{
-    background: #666;
+    background: #D61C4E;
     border-radius: 50px;
     
 }
