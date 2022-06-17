@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color:#92B4EC;
+    background-color:#1F4690;
 }
 .heading{
     color:#444;
@@ -43,7 +43,7 @@ body{
 
 }
 .container .video-list{
-    background: #fff;
+    background: #243A73;
     border-radius: 5px;
     height: 520px;
     overflow-y: scroll;
