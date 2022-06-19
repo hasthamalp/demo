@@ -2,4 +2,4 @@
 Thanks for visiting........
 
 >
-We believe open source is a public good and across every industry, we have a responsibility to come together to improve and support the security of open-source software we all depend on.
+Free software is a matter of liberty, not price. You should think of 'free' as in 'free speech' and not as in 'free ice-cream'”.
